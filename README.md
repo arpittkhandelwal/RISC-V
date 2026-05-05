@@ -1,4 +1,4 @@
-# <p align="center">🚀 RISC-V High-Precision Algorithm Suite</p>
+# <p align="center"> RISC-V High-Precision Algorithm Suite</p>
 
 <p align="center">
   <img src="riscv_branding.png" alt="RISC-V High Precision Logo" width="400">
