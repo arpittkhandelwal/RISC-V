@@ -1,7 +1,7 @@
 # <p align="center">🚀 RISC-V High-Precision Algorithm Suite</p>
 
 <p align="center">
-  <img src="logo.png" alt="RISC-V High Precision Logo" width="400">
+  <img src="riscv_branding.png" alt="RISC-V High Precision Logo" width="400">
 </p>
 
 ---
@@ -65,7 +65,7 @@ The `demo.sh` script provides an interactive menu to explore all features:
 | `demo.sh` | Main entry point with interactive menu and Bash demos | Bash |
 | `hanoi.py` | High-precision recursive implementation of Tower of Hanoi | Python |
 | `game_of_life.py` | Optimized iterative implementation of Conway's Game of Life | Python |
-| `logo.png` | Project branding and visuals | Image |
+| `riscv_branding.png` | Project branding and visuals | Image |
 
 ---
 
